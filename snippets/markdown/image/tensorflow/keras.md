@@ -1,3 +1,4 @@
+#los datos son las primeras 20 imágenes en JPG de Col1-H17h-780°C-1h y de Col1-H17h-800°C-1h
 ```python
 from keras.models import load_model  # TensorFlow is required for Keras to work
 from PIL import Image, ImageOps  # Install pillow instead of PIL
